@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hi👋! I'm Muhammad Sohaib.</h1>
+<h1 align="center">Hi👋! I'm Muhammad Sohaib.</h1>
 
 ###
 
