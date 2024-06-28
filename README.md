@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">A passionate frontend developer from Pakistan</h4>
+<h4 align="center">A frontend developer from Pakistan</h4>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Muhammad Sohaib From Swat, Pakistan.<br><br>- 🔭 I’m working as front-end web developer.<br>- 📚 I'm currently learning Back-end web development<br>- 💬 Ask me about **HTML, CSS and Bootstrap.<br>- 👯 All of my projects are available at https://www.linkedin.com/in/msohaaib/<br>- 📫 How to reach me msohaib55@outlook.com</p>
+<p align="left">I'm Muhammad Sohaib From Swat, Pakistan.<br><br>- 🔭 I’m working as front-end web developer.<br>- 📚 I'm currently learning Back-end web development<br>- 💬 Ask me about **HTML, CSS, Bootstrap and tailwind CSS.<br>- 👯 All of my projects are available at https://www.linkedin.com/in/msohaaib/<br>- 📫 How to reach me msohaib55@outlook.com</p>
 
 ###
 
