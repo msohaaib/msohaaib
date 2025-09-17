@@ -1,75 +1,70 @@
-<div align="center">
-  <img height="200" src="https://www.audienceplanet.com/root/template/1//images/web-development.gif"  />
-</div>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/msohaaib">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Muhammad+Sohaib;Front-End+%26+Growing+Full-Stack+Developer;Freelancer+%7C+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
-###
+<!-- Wave Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4C51BF&height=200&section=header&text=Muhammad%20Sohaib&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<h1 align="center">Hi👋! I'm Muhammad Sohaib.</h1>
+---
 
-###
+# 👨‍💻 About Me  
 
-<h4 align="center">A frontend developer from Pakistan</h4>
+💻 **Front-End & Aspiring Full-Stack Developer | Freelancer | Tech Enthusiast**  
 
-###
+I’m passionate about crafting responsive, modern, and user-friendly web applications.  
+Currently diving deeper into **Express.js, Node.js, and Databases** to become a full-stack developer.  
 
-<h3 align="left">📞Contact me:</h3>
+---
 
-###
+## 🛠️ Tech Stack  
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/msohaaib/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  /></a>
-  <a href="https://twitter.com/msohaaib55"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  /></a>
-  <a href="https://www.facebook.com/msohaaib"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  /></a>
-  <a href="mailto: msohaib9685055@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  /></a>
-  <a href ="https://www.instagram.com/msohaaib/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  /></a>
-  <a href="mailto:msohaib55@outlook.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="37" height="25" alt="microsoft-outlook logo" /></a>
+**Languages & Frameworks**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff)
 
-###
+**Backend & Databases**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
-<h3 align="left">👩‍💻  About Me</h3>
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 
-###
+---
 
-<p align="left">I'm Muhammad Sohaib From Swat, Pakistan.<br><br>- 🔭 I’m working as front-end web developer.<br>- 📚 I'm currently learning Back-end web development<br>- 💬 Ask me about **HTML, CSS, Bootstrap and tailwind CSS.<br>- 👯 All of my projects are available at https://www.linkedin.com/in/msohaaib/<br>- 📫 How to reach me msohaib55@outlook.com</p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msohaaib&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msohaaib&theme=tokyonight" alt="GitHub streak" height="165"/>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=msohaaib.msohaaib&left_text=views"  />
-</div>
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://github.com/msohaaib"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
+  <a href="mailto:msohaaib@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
+</p>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="csharp logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msohaaib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=msohaaib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=msohaaib&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C51BF,100:38B2AC&height=100&section=footer"/>
+</p>
