@@ -47,7 +47,6 @@ Currently diving deeper into **Express.js, Node.js, and Databases** to become a 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msohaaib&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msohaaib&theme=tokyonight" alt="GitHub streak" height="165"/>
 </p>
 
