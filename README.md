@@ -1,8 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/msohaaib">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Muhammad+Sohaib;Front-End+%26+Growing+Full-Stack+Developer;Freelancer+%7C+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Muhammad+Sohaib;Front-End+%26+Full-Stack+Developer;Freelancer+%7C+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <!-- Wave Banner -->
