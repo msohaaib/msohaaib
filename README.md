@@ -48,7 +48,7 @@ Always learning and open to collaborations!
 
 ---
 
-## 🔥 Featured Projects
+<!--## 🔥 Featured Projects
 (Coming soon — pinning my best MERN/full-stack demos)  
 - **MERN E-Commerce / Dashboard** — Full CRUD, auth (JWT), admin panel, deployed on Vercel/Render  
 - **Next.js + Tailwind Landing Page** — Responsive, animated, SEO-friendly  
@@ -56,7 +56,7 @@ Always learning and open to collaborations!
 - **Appwrite Backend Service** — Secure auth, storage, APIs for web/mobile  
 - **Node.js REST API** — Express + MongoDB + JWT authentication  
 
-Check pinned repositories below for live demos, code, and READMEs with setup instructions.
+Check pinned repositories below for live demos, code, and READMEs with setup instructions.-->
 
 ---
 
